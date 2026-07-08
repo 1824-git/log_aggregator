@@ -1,0 +1,2296 @@
+{
+  "total_count": 254,
+  "global_clock": {
+    "node-A": 334,
+    "node-B": 334,
+    "node-C": 336
+  },
+  "logs": [
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480066.5025415,
+      "level": "WARN",
+      "message": "这是 node-A 的第 313 条日志",
+      "vector_clock": {
+        "node-A": 313
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480067.1640546,
+      "level": "WARN",
+      "message": "这是 node-B 的第 307 条日志",
+      "vector_clock": {
+        "node-B": 307
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480067.2275786,
+      "level": "INFO",
+      "message": "这是 node-C 的第 302 条日志",
+      "vector_clock": {
+        "node-C": 302
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480067.503293,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 314 条日志",
+      "vector_clock": {
+        "node-A": 314
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480068.1648753,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 308 条日志",
+      "vector_clock": {
+        "node-B": 308
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480068.228458,
+      "level": "INFO",
+      "message": "这是 node-C 的第 303 条日志",
+      "vector_clock": {
+        "node-C": 303
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480068.5041604,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 315 条日志",
+      "vector_clock": {
+        "node-A": 315
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480069.1656837,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 309 条日志",
+      "vector_clock": {
+        "node-B": 309
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480069.2296093,
+      "level": "WARN",
+      "message": "这是 node-C 的第 304 条日志",
+      "vector_clock": {
+        "node-C": 304
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480069.5047395,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 316 条日志",
+      "vector_clock": {
+        "node-A": 316
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480070.1662316,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 310 条日志",
+      "vector_clock": {
+        "node-B": 310
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480070.230245,
+      "level": "INFO",
+      "message": "这是 node-C 的第 305 条日志",
+      "vector_clock": {
+        "node-C": 305
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480070.505361,
+      "level": "WARN",
+      "message": "这是 node-A 的第 317 条日志",
+      "vector_clock": {
+        "node-A": 317
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480071.1669593,
+      "level": "INFO",
+      "message": "这是 node-B 的第 311 条日志",
+      "vector_clock": {
+        "node-B": 311
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480071.2307782,
+      "level": "WARN",
+      "message": "这是 node-C 的第 306 条日志",
+      "vector_clock": {
+        "node-C": 306
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480071.5063376,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 318 条日志",
+      "vector_clock": {
+        "node-A": 318
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480072.1676853,
+      "level": "INFO",
+      "message": "这是 node-B 的第 312 条日志",
+      "vector_clock": {
+        "node-B": 312
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480072.2313287,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 307 条日志",
+      "vector_clock": {
+        "node-C": 307
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480072.507271,
+      "level": "WARN",
+      "message": "这是 node-A 的第 319 条日志",
+      "vector_clock": {
+        "node-A": 319
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480073.1684403,
+      "level": "WARN",
+      "message": "这是 node-B 的第 313 条日志",
+      "vector_clock": {
+        "node-B": 313
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480073.2321932,
+      "level": "INFO",
+      "message": "这是 node-C 的第 308 条日志",
+      "vector_clock": {
+        "node-C": 308
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480073.5077465,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 320 条日志",
+      "vector_clock": {
+        "node-A": 320
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480074.1690042,
+      "level": "INFO",
+      "message": "这是 node-B 的第 314 条日志",
+      "vector_clock": {
+        "node-B": 314
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480074.232807,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 309 条日志",
+      "vector_clock": {
+        "node-C": 309
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480074.5084925,
+      "level": "WARN",
+      "message": "这是 node-A 的第 321 条日志",
+      "vector_clock": {
+        "node-A": 321
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480075.169859,
+      "level": "WARN",
+      "message": "这是 node-B 的第 315 条日志",
+      "vector_clock": {
+        "node-B": 315
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480075.2336254,
+      "level": "WARN",
+      "message": "这是 node-C 的第 310 条日志",
+      "vector_clock": {
+        "node-C": 310
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480075.5094845,
+      "level": "WARN",
+      "message": "这是 node-A 的第 322 条日志",
+      "vector_clock": {
+        "node-A": 322
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480076.170747,
+      "level": "WARN",
+      "message": "这是 node-B 的第 316 条日志",
+      "vector_clock": {
+        "node-B": 316
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480076.2342093,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 311 条日志",
+      "vector_clock": {
+        "node-C": 311
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480076.510761,
+      "level": "INFO",
+      "message": "这是 node-A 的第 323 条日志",
+      "vector_clock": {
+        "node-A": 323
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480077.171606,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 317 条日志",
+      "vector_clock": {
+        "node-B": 317
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480077.2351696,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 312 条日志",
+      "vector_clock": {
+        "node-C": 312
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480077.5116937,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 324 条日志",
+      "vector_clock": {
+        "node-A": 324
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480078.1724837,
+      "level": "WARN",
+      "message": "这是 node-B 的第 318 条日志",
+      "vector_clock": {
+        "node-B": 318
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480078.2358232,
+      "level": "INFO",
+      "message": "这是 node-C 的第 313 条日志",
+      "vector_clock": {
+        "node-C": 313
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480078.5126588,
+      "level": "WARN",
+      "message": "这是 node-A 的第 325 条日志",
+      "vector_clock": {
+        "node-A": 325
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480079.1731143,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 319 条日志",
+      "vector_clock": {
+        "node-B": 319
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480079.2364998,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 314 条日志",
+      "vector_clock": {
+        "node-C": 314
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480079.5132852,
+      "level": "INFO",
+      "message": "这是 node-A 的第 326 条日志",
+      "vector_clock": {
+        "node-A": 326
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480080.1739502,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 320 条日志",
+      "vector_clock": {
+        "node-B": 320
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480080.2371614,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 315 条日志",
+      "vector_clock": {
+        "node-C": 315
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480080.5140038,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 327 条日志",
+      "vector_clock": {
+        "node-A": 327
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480081.1747525,
+      "level": "WARN",
+      "message": "这是 node-B 的第 321 条日志",
+      "vector_clock": {
+        "node-B": 321
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480081.2379515,
+      "level": "WARN",
+      "message": "这是 node-C 的第 316 条日志",
+      "vector_clock": {
+        "node-C": 316
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480081.5149114,
+      "level": "WARN",
+      "message": "这是 node-A 的第 328 条日志",
+      "vector_clock": {
+        "node-A": 328
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480082.1754954,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 322 条日志",
+      "vector_clock": {
+        "node-B": 322
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480082.2385464,
+      "level": "WARN",
+      "message": "这是 node-C 的第 317 条日志",
+      "vector_clock": {
+        "node-C": 317
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480082.515525,
+      "level": "WARN",
+      "message": "这是 node-A 的第 329 条日志",
+      "vector_clock": {
+        "node-A": 329
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480083.1765513,
+      "level": "WARN",
+      "message": "这是 node-B 的第 323 条日志",
+      "vector_clock": {
+        "node-B": 323
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480083.239276,
+      "level": "WARN",
+      "message": "这是 node-C 的第 318 条日志",
+      "vector_clock": {
+        "node-C": 318
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480083.5163767,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 330 条日志",
+      "vector_clock": {
+        "node-A": 330
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480084.177542,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 324 条日志",
+      "vector_clock": {
+        "node-B": 324
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480084.2400544,
+      "level": "INFO",
+      "message": "这是 node-C 的第 319 条日志",
+      "vector_clock": {
+        "node-C": 319
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480084.5171456,
+      "level": "WARN",
+      "message": "这是 node-A 的第 331 条日志",
+      "vector_clock": {
+        "node-A": 331
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480085.1782436,
+      "level": "WARN",
+      "message": "这是 node-B 的第 325 条日志",
+      "vector_clock": {
+        "node-B": 325
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480085.240992,
+      "level": "INFO",
+      "message": "这是 node-C 的第 320 条日志",
+      "vector_clock": {
+        "node-C": 320
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480085.5178266,
+      "level": "INFO",
+      "message": "这是 node-A 的第 332 条日志",
+      "vector_clock": {
+        "node-A": 332
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480086.1788893,
+      "level": "INFO",
+      "message": "这是 node-B 的第 326 条日志",
+      "vector_clock": {
+        "node-B": 326
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480086.24173,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 321 条日志",
+      "vector_clock": {
+        "node-C": 321
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480086.5188744,
+      "level": "WARN",
+      "message": "这是 node-A 的第 333 条日志",
+      "vector_clock": {
+        "node-A": 333
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480087.1797268,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 327 条日志",
+      "vector_clock": {
+        "node-B": 327
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480087.2426555,
+      "level": "WARN",
+      "message": "这是 node-C 的第 322 条日志",
+      "vector_clock": {
+        "node-C": 322
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480087.5196698,
+      "level": "INFO",
+      "message": "这是 node-A 的第 334 条日志",
+      "vector_clock": {
+        "node-A": 334
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480088.1805482,
+      "level": "WARN",
+      "message": "这是 node-B 的第 328 条日志",
+      "vector_clock": {
+        "node-B": 328
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480088.2434762,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 323 条日志",
+      "vector_clock": {
+        "node-C": 323
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480089.1810331,
+      "level": "INFO",
+      "message": "这是 node-B 的第 329 条日志",
+      "vector_clock": {
+        "node-B": 329
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480089.244006,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 324 条日志",
+      "vector_clock": {
+        "node-C": 324
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480090.0059662,
+      "level": "INFO",
+      "message": "这是 node-A 的第 1 条日志",
+      "vector_clock": {
+        "node-A": 1
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480090.1818998,
+      "level": "WARN",
+      "message": "这是 node-B 的第 330 条日志",
+      "vector_clock": {
+        "node-B": 330
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480090.2448013,
+      "level": "INFO",
+      "message": "这是 node-C 的第 325 条日志",
+      "vector_clock": {
+        "node-C": 325
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480091.0068336,
+      "level": "INFO",
+      "message": "这是 node-A 的第 2 条日志",
+      "vector_clock": {
+        "node-A": 2
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480091.1826937,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 331 条日志",
+      "vector_clock": {
+        "node-B": 331
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480091.2459526,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 326 条日志",
+      "vector_clock": {
+        "node-C": 326
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480092.0076718,
+      "level": "INFO",
+      "message": "这是 node-A 的第 3 条日志",
+      "vector_clock": {
+        "node-A": 3
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480092.1837883,
+      "level": "WARN",
+      "message": "这是 node-B 的第 332 条日志",
+      "vector_clock": {
+        "node-B": 332
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480092.2468731,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 327 条日志",
+      "vector_clock": {
+        "node-C": 327
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480093.008383,
+      "level": "INFO",
+      "message": "这是 node-A 的第 4 条日志",
+      "vector_clock": {
+        "node-A": 4
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480093.1846423,
+      "level": "INFO",
+      "message": "这是 node-B 的第 333 条日志",
+      "vector_clock": {
+        "node-B": 333
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480093.247458,
+      "level": "WARN",
+      "message": "这是 node-C 的第 328 条日志",
+      "vector_clock": {
+        "node-C": 328
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480094.0090964,
+      "level": "WARN",
+      "message": "这是 node-A 的第 5 条日志",
+      "vector_clock": {
+        "node-A": 5
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480094.1855829,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 334 条日志",
+      "vector_clock": {
+        "node-B": 334
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480094.2480562,
+      "level": "INFO",
+      "message": "这是 node-C 的第 329 条日志",
+      "vector_clock": {
+        "node-C": 329
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480095.0100448,
+      "level": "INFO",
+      "message": "这是 node-A 的第 6 条日志",
+      "vector_clock": {
+        "node-A": 6
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480095.249102,
+      "level": "WARN",
+      "message": "这是 node-C 的第 330 条日志",
+      "vector_clock": {
+        "node-C": 330
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480096.0107076,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 7 条日志",
+      "vector_clock": {
+        "node-A": 7
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480096.2495892,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 331 条日志",
+      "vector_clock": {
+        "node-C": 331
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480097.011556,
+      "level": "WARN",
+      "message": "这是 node-A 的第 8 条日志",
+      "vector_clock": {
+        "node-A": 8
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480097.250138,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 332 条日志",
+      "vector_clock": {
+        "node-C": 332
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480098.0049233,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 1 条日志",
+      "vector_clock": {
+        "node-B": 1
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480098.012208,
+      "level": "WARN",
+      "message": "这是 node-A 的第 9 条日志",
+      "vector_clock": {
+        "node-A": 9
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480098.2507632,
+      "level": "INFO",
+      "message": "这是 node-C 的第 333 条日志",
+      "vector_clock": {
+        "node-C": 333
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480099.0058453,
+      "level": "WARN",
+      "message": "这是 node-B 的第 2 条日志",
+      "vector_clock": {
+        "node-B": 2
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480099.0125268,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 10 条日志",
+      "vector_clock": {
+        "node-A": 10
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480099.2514236,
+      "level": "WARN",
+      "message": "这是 node-C 的第 334 条日志",
+      "vector_clock": {
+        "node-C": 334
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480100.0065274,
+      "level": "WARN",
+      "message": "这是 node-B 的第 3 条日志",
+      "vector_clock": {
+        "node-B": 3
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480100.0129325,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 11 条日志",
+      "vector_clock": {
+        "node-A": 11
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480100.2520835,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 335 条日志",
+      "vector_clock": {
+        "node-C": 335
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480101.0071778,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 4 条日志",
+      "vector_clock": {
+        "node-B": 4
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480101.0134523,
+      "level": "WARN",
+      "message": "这是 node-A 的第 12 条日志",
+      "vector_clock": {
+        "node-A": 12
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480101.2527938,
+      "level": "WARN",
+      "message": "这是 node-C 的第 336 条日志",
+      "vector_clock": {
+        "node-C": 336
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480102.0078363,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 5 条日志",
+      "vector_clock": {
+        "node-B": 5
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480102.0141134,
+      "level": "WARN",
+      "message": "这是 node-A 的第 13 条日志",
+      "vector_clock": {
+        "node-A": 13
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480103.0086246,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 6 条日志",
+      "vector_clock": {
+        "node-B": 6
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480103.0147493,
+      "level": "INFO",
+      "message": "这是 node-A 的第 14 条日志",
+      "vector_clock": {
+        "node-A": 14
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480104.0095327,
+      "level": "INFO",
+      "message": "这是 node-B 的第 7 条日志",
+      "vector_clock": {
+        "node-B": 7
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480104.0154567,
+      "level": "INFO",
+      "message": "这是 node-A 的第 15 条日志",
+      "vector_clock": {
+        "node-A": 15
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480104.8367064,
+      "level": "INFO",
+      "message": "这是 node-C 的第 1 条日志",
+      "vector_clock": {
+        "node-C": 1
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480105.0110762,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 8 条日志",
+      "vector_clock": {
+        "node-B": 8
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480105.0161521,
+      "level": "INFO",
+      "message": "这是 node-A 的第 16 条日志",
+      "vector_clock": {
+        "node-A": 16
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480105.8375711,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 2 条日志",
+      "vector_clock": {
+        "node-C": 2
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480106.012065,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 9 条日志",
+      "vector_clock": {
+        "node-B": 9
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480106.0167563,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 17 条日志",
+      "vector_clock": {
+        "node-A": 17
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480106.8385277,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 3 条日志",
+      "vector_clock": {
+        "node-C": 3
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480107.012987,
+      "level": "WARN",
+      "message": "这是 node-B 的第 10 条日志",
+      "vector_clock": {
+        "node-B": 10
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480107.0172534,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 18 条日志",
+      "vector_clock": {
+        "node-A": 18
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480107.8394012,
+      "level": "WARN",
+      "message": "这是 node-C 的第 4 条日志",
+      "vector_clock": {
+        "node-C": 4
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480108.0136552,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 11 条日志",
+      "vector_clock": {
+        "node-B": 11
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480108.0175576,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 19 条日志",
+      "vector_clock": {
+        "node-A": 19
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480108.8400726,
+      "level": "INFO",
+      "message": "这是 node-C 的第 5 条日志",
+      "vector_clock": {
+        "node-C": 5
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480109.0145428,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 12 条日志",
+      "vector_clock": {
+        "node-B": 12
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480109.018142,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 20 条日志",
+      "vector_clock": {
+        "node-A": 20
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480109.8405273,
+      "level": "WARN",
+      "message": "这是 node-C 的第 6 条日志",
+      "vector_clock": {
+        "node-C": 6
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480110.0152795,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 13 条日志",
+      "vector_clock": {
+        "node-B": 13
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480110.019002,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 21 条日志",
+      "vector_clock": {
+        "node-A": 21
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480110.841248,
+      "level": "WARN",
+      "message": "这是 node-C 的第 7 条日志",
+      "vector_clock": {
+        "node-C": 7
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480111.0161142,
+      "level": "WARN",
+      "message": "这是 node-B 的第 14 条日志",
+      "vector_clock": {
+        "node-B": 14
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480111.0198026,
+      "level": "WARN",
+      "message": "这是 node-A 的第 22 条日志",
+      "vector_clock": {
+        "node-A": 22
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480111.8417332,
+      "level": "INFO",
+      "message": "这是 node-C 的第 8 条日志",
+      "vector_clock": {
+        "node-C": 8
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480112.0172148,
+      "level": "WARN",
+      "message": "这是 node-B 的第 15 条日志",
+      "vector_clock": {
+        "node-B": 15
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480112.020577,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 23 条日志",
+      "vector_clock": {
+        "node-A": 23
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480112.842418,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 9 条日志",
+      "vector_clock": {
+        "node-C": 9
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480113.0181386,
+      "level": "WARN",
+      "message": "这是 node-B 的第 16 条日志",
+      "vector_clock": {
+        "node-B": 16
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480113.0211732,
+      "level": "WARN",
+      "message": "这是 node-A 的第 24 条日志",
+      "vector_clock": {
+        "node-A": 24
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480113.8429875,
+      "level": "INFO",
+      "message": "这是 node-C 的第 10 条日志",
+      "vector_clock": {
+        "node-C": 10
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480114.0190256,
+      "level": "WARN",
+      "message": "这是 node-B 的第 17 条日志",
+      "vector_clock": {
+        "node-B": 17
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480114.0220096,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 25 条日志",
+      "vector_clock": {
+        "node-A": 25
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480114.8435686,
+      "level": "WARN",
+      "message": "这是 node-C 的第 11 条日志",
+      "vector_clock": {
+        "node-C": 11
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480115.0196502,
+      "level": "INFO",
+      "message": "这是 node-B 的第 18 条日志",
+      "vector_clock": {
+        "node-B": 18
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480115.02247,
+      "level": "WARN",
+      "message": "这是 node-A 的第 26 条日志",
+      "vector_clock": {
+        "node-A": 26
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480115.8445807,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 12 条日志",
+      "vector_clock": {
+        "node-C": 12
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480116.020608,
+      "level": "WARN",
+      "message": "这是 node-B 的第 19 条日志",
+      "vector_clock": {
+        "node-B": 19
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480116.023094,
+      "level": "INFO",
+      "message": "这是 node-A 的第 27 条日志",
+      "vector_clock": {
+        "node-A": 27
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480116.8455036,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 13 条日志",
+      "vector_clock": {
+        "node-C": 13
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480117.0215745,
+      "level": "INFO",
+      "message": "这是 node-B 的第 20 条日志",
+      "vector_clock": {
+        "node-B": 20
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480117.0235786,
+      "level": "INFO",
+      "message": "这是 node-A 的第 28 条日志",
+      "vector_clock": {
+        "node-A": 28
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480117.8461547,
+      "level": "WARN",
+      "message": "这是 node-C 的第 14 条日志",
+      "vector_clock": {
+        "node-C": 14
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480118.0222678,
+      "level": "INFO",
+      "message": "这是 node-B 的第 21 条日志",
+      "vector_clock": {
+        "node-B": 21
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480118.0240602,
+      "level": "WARN",
+      "message": "这是 node-A 的第 29 条日志",
+      "vector_clock": {
+        "node-A": 29
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480118.8469696,
+      "level": "INFO",
+      "message": "这是 node-C 的第 15 条日志",
+      "vector_clock": {
+        "node-C": 15
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480119.0228372,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 22 条日志",
+      "vector_clock": {
+        "node-B": 22
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480119.0247912,
+      "level": "INFO",
+      "message": "这是 node-A 的第 30 条日志",
+      "vector_clock": {
+        "node-A": 30
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480119.8481722,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 16 条日志",
+      "vector_clock": {
+        "node-C": 16
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480120.0235636,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 23 条日志",
+      "vector_clock": {
+        "node-B": 23
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480120.025601,
+      "level": "WARN",
+      "message": "这是 node-A 的第 31 条日志",
+      "vector_clock": {
+        "node-A": 31
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480120.8491304,
+      "level": "INFO",
+      "message": "这是 node-C 的第 17 条日志",
+      "vector_clock": {
+        "node-C": 17
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480121.0244293,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 24 条日志",
+      "vector_clock": {
+        "node-B": 24
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480121.0261328,
+      "level": "INFO",
+      "message": "这是 node-A 的第 32 条日志",
+      "vector_clock": {
+        "node-A": 32
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480121.8503926,
+      "level": "WARN",
+      "message": "这是 node-C 的第 18 条日志",
+      "vector_clock": {
+        "node-C": 18
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480122.025101,
+      "level": "INFO",
+      "message": "这是 node-B 的第 25 条日志",
+      "vector_clock": {
+        "node-B": 25
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480122.026663,
+      "level": "INFO",
+      "message": "这是 node-A 的第 33 条日志",
+      "vector_clock": {
+        "node-A": 33
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480122.851425,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 19 条日志",
+      "vector_clock": {
+        "node-C": 19
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480123.0258236,
+      "level": "INFO",
+      "message": "这是 node-B 的第 26 条日志",
+      "vector_clock": {
+        "node-B": 26
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480123.0273242,
+      "level": "INFO",
+      "message": "这是 node-A 的第 34 条日志",
+      "vector_clock": {
+        "node-A": 34
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480123.8519487,
+      "level": "INFO",
+      "message": "这是 node-C 的第 20 条日志",
+      "vector_clock": {
+        "node-C": 20
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480124.0266292,
+      "level": "WARN",
+      "message": "这是 node-B 的第 27 条日志",
+      "vector_clock": {
+        "node-B": 27
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480124.0281346,
+      "level": "INFO",
+      "message": "这是 node-A 的第 35 条日志",
+      "vector_clock": {
+        "node-A": 35
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480124.8525882,
+      "level": "WARN",
+      "message": "这是 node-C 的第 21 条日志",
+      "vector_clock": {
+        "node-C": 21
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480125.027326,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 28 条日志",
+      "vector_clock": {
+        "node-B": 28
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480125.0288372,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 36 条日志",
+      "vector_clock": {
+        "node-A": 36
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480125.8532631,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 22 条日志",
+      "vector_clock": {
+        "node-C": 22
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480126.0282476,
+      "level": "WARN",
+      "message": "这是 node-B 的第 29 条日志",
+      "vector_clock": {
+        "node-B": 29
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480126.0297575,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 37 条日志",
+      "vector_clock": {
+        "node-A": 37
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480126.8539107,
+      "level": "WARN",
+      "message": "这是 node-C 的第 23 条日志",
+      "vector_clock": {
+        "node-C": 23
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480127.0288994,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 30 条日志",
+      "vector_clock": {
+        "node-B": 30
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480127.0307422,
+      "level": "WARN",
+      "message": "这是 node-A 的第 38 条日志",
+      "vector_clock": {
+        "node-A": 38
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480127.8544304,
+      "level": "WARN",
+      "message": "这是 node-C 的第 24 条日志",
+      "vector_clock": {
+        "node-C": 24
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480128.0297859,
+      "level": "WARN",
+      "message": "这是 node-B 的第 31 条日志",
+      "vector_clock": {
+        "node-B": 31
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480128.0313158,
+      "level": "WARN",
+      "message": "这是 node-A 的第 39 条日志",
+      "vector_clock": {
+        "node-A": 39
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480128.855414,
+      "level": "INFO",
+      "message": "这是 node-C 的第 25 条日志",
+      "vector_clock": {
+        "node-C": 25
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480129.0305958,
+      "level": "INFO",
+      "message": "这是 node-B 的第 32 条日志",
+      "vector_clock": {
+        "node-B": 32
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480129.0320992,
+      "level": "WARN",
+      "message": "这是 node-A 的第 40 条日志",
+      "vector_clock": {
+        "node-A": 40
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480129.8560882,
+      "level": "WARN",
+      "message": "这是 node-C 的第 26 条日志",
+      "vector_clock": {
+        "node-C": 26
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480130.0319533,
+      "level": "WARN",
+      "message": "这是 node-B 的第 33 条日志",
+      "vector_clock": {
+        "node-B": 33
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480130.032915,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 41 条日志",
+      "vector_clock": {
+        "node-A": 41
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480130.8569367,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 27 条日志",
+      "vector_clock": {
+        "node-C": 27
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480131.0327027,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 34 条日志",
+      "vector_clock": {
+        "node-B": 34
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480131.033802,
+      "level": "INFO",
+      "message": "这是 node-A 的第 42 条日志",
+      "vector_clock": {
+        "node-A": 42
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480131.857533,
+      "level": "INFO",
+      "message": "这是 node-C 的第 28 条日志",
+      "vector_clock": {
+        "node-C": 28
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480132.0337355,
+      "level": "INFO",
+      "message": "这是 node-B 的第 35 条日志",
+      "vector_clock": {
+        "node-B": 35
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480132.034211,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 43 条日志",
+      "vector_clock": {
+        "node-A": 43
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480132.858378,
+      "level": "INFO",
+      "message": "这是 node-C 的第 29 条日志",
+      "vector_clock": {
+        "node-C": 29
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480133.0348818,
+      "level": "WARN",
+      "message": "这是 node-B 的第 36 条日志",
+      "vector_clock": {
+        "node-B": 36
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480133.0348816,
+      "level": "WARN",
+      "message": "这是 node-A 的第 44 条日志",
+      "vector_clock": {
+        "node-A": 44
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480133.8588314,
+      "level": "WARN",
+      "message": "这是 node-C 的第 30 条日志",
+      "vector_clock": {
+        "node-C": 30
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480134.035497,
+      "level": "WARN",
+      "message": "这是 node-B 的第 37 条日志",
+      "vector_clock": {
+        "node-B": 37
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480134.0354886,
+      "level": "WARN",
+      "message": "这是 node-A 的第 45 条日志",
+      "vector_clock": {
+        "node-A": 45
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480134.8595693,
+      "level": "INFO",
+      "message": "这是 node-C 的第 31 条日志",
+      "vector_clock": {
+        "node-C": 31
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480135.0367994,
+      "level": "WARN",
+      "message": "这是 node-A 的第 46 条日志",
+      "vector_clock": {
+        "node-A": 46
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480135.0368056,
+      "level": "WARN",
+      "message": "这是 node-B 的第 38 条日志",
+      "vector_clock": {
+        "node-B": 38
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480135.8602366,
+      "level": "INFO",
+      "message": "这是 node-C 的第 32 条日志",
+      "vector_clock": {
+        "node-C": 32
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480136.0379255,
+      "level": "INFO",
+      "message": "这是 node-A 的第 47 条日志",
+      "vector_clock": {
+        "node-A": 47
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480136.0379257,
+      "level": "INFO",
+      "message": "这是 node-B 的第 39 条日志",
+      "vector_clock": {
+        "node-B": 39
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480136.861151,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 33 条日志",
+      "vector_clock": {
+        "node-C": 33
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480137.0387213,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 40 条日志",
+      "vector_clock": {
+        "node-B": 40
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480137.0387213,
+      "level": "WARN",
+      "message": "这是 node-A 的第 48 条日志",
+      "vector_clock": {
+        "node-A": 48
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480137.861892,
+      "level": "WARN",
+      "message": "这是 node-C 的第 34 条日志",
+      "vector_clock": {
+        "node-C": 34
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480138.039499,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 49 条日志",
+      "vector_clock": {
+        "node-A": 49
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480138.039499,
+      "level": "WARN",
+      "message": "这是 node-B 的第 41 条日志",
+      "vector_clock": {
+        "node-B": 41
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480138.8626285,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 35 条日志",
+      "vector_clock": {
+        "node-C": 35
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480139.0404375,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 50 条日志",
+      "vector_clock": {
+        "node-A": 50
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480139.0404372,
+      "level": "WARN",
+      "message": "这是 node-B 的第 42 条日志",
+      "vector_clock": {
+        "node-B": 42
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480139.863193,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 36 条日志",
+      "vector_clock": {
+        "node-C": 36
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480140.0413606,
+      "level": "WARN",
+      "message": "这是 node-A 的第 51 条日志",
+      "vector_clock": {
+        "node-A": 51
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480140.0413606,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 43 条日志",
+      "vector_clock": {
+        "node-B": 43
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480140.8638134,
+      "level": "INFO",
+      "message": "这是 node-C 的第 37 条日志",
+      "vector_clock": {
+        "node-C": 37
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480141.042168,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 52 条日志",
+      "vector_clock": {
+        "node-A": 52
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480141.0421703,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 44 条日志",
+      "vector_clock": {
+        "node-B": 44
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480141.8644946,
+      "level": "WARN",
+      "message": "这是 node-C 的第 38 条日志",
+      "vector_clock": {
+        "node-C": 38
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480142.042906,
+      "level": "WARN",
+      "message": "这是 node-B 的第 45 条日志",
+      "vector_clock": {
+        "node-B": 45
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480142.042906,
+      "level": "INFO",
+      "message": "这是 node-A 的第 53 条日志",
+      "vector_clock": {
+        "node-A": 53
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480142.8650868,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 39 条日志",
+      "vector_clock": {
+        "node-C": 39
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480143.0433922,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 46 条日志",
+      "vector_clock": {
+        "node-B": 46
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480143.043397,
+      "level": "WARN",
+      "message": "这是 node-A 的第 54 条日志",
+      "vector_clock": {
+        "node-A": 54
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480143.8659039,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 40 条日志",
+      "vector_clock": {
+        "node-C": 40
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480144.0439403,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 55 条日志",
+      "vector_clock": {
+        "node-A": 55
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480144.0439403,
+      "level": "INFO",
+      "message": "这是 node-B 的第 47 条日志",
+      "vector_clock": {
+        "node-B": 47
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480144.8665087,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 41 条日志",
+      "vector_clock": {
+        "node-C": 41
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480145.044569,
+      "level": "WARN",
+      "message": "这是 node-A 的第 56 条日志",
+      "vector_clock": {
+        "node-A": 56
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480145.0447826,
+      "level": "INFO",
+      "message": "这是 node-B 的第 48 条日志",
+      "vector_clock": {
+        "node-B": 48
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480145.8674002,
+      "level": "INFO",
+      "message": "这是 node-C 的第 42 条日志",
+      "vector_clock": {
+        "node-C": 42
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480146.0455012,
+      "level": "INFO",
+      "message": "这是 node-A 的第 57 条日志",
+      "vector_clock": {
+        "node-A": 57
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480146.045531,
+      "level": "INFO",
+      "message": "这是 node-B 的第 49 条日志",
+      "vector_clock": {
+        "node-B": 49
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480146.868687,
+      "level": "WARN",
+      "message": "这是 node-C 的第 43 条日志",
+      "vector_clock": {
+        "node-C": 43
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480147.0461447,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 58 条日志",
+      "vector_clock": {
+        "node-A": 58
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480147.0462034,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 50 条日志",
+      "vector_clock": {
+        "node-B": 50
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480147.8693857,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 44 条日志",
+      "vector_clock": {
+        "node-C": 44
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480148.0466914,
+      "level": "INFO",
+      "message": "这是 node-B 的第 51 条日志",
+      "vector_clock": {
+        "node-B": 51
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480148.0467145,
+      "level": "WARN",
+      "message": "这是 node-A 的第 59 条日志",
+      "vector_clock": {
+        "node-A": 59
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480148.8706112,
+      "level": "WARN",
+      "message": "这是 node-C 的第 45 条日志",
+      "vector_clock": {
+        "node-C": 45
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480149.0476103,
+      "level": "INFO",
+      "message": "这是 node-A 的第 60 条日志",
+      "vector_clock": {
+        "node-A": 60
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480149.0476325,
+      "level": "ERROR",
+      "message": "这是 node-B 的第 52 条日志",
+      "vector_clock": {
+        "node-B": 52
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480149.8713448,
+      "level": "INFO",
+      "message": "这是 node-C 的第 46 条日志",
+      "vector_clock": {
+        "node-C": 46
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480150.048205,
+      "level": "INFO",
+      "message": "这是 node-B 的第 53 条日志",
+      "vector_clock": {
+        "node-B": 53
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480150.0482328,
+      "level": "INFO",
+      "message": "这是 node-A 的第 61 条日志",
+      "vector_clock": {
+        "node-A": 61
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480150.8720803,
+      "level": "WARN",
+      "message": "这是 node-C 的第 47 条日志",
+      "vector_clock": {
+        "node-C": 47
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480151.0487344,
+      "level": "WARN",
+      "message": "这是 node-A 的第 62 条日志",
+      "vector_clock": {
+        "node-A": 62
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480151.048743,
+      "level": "INFO",
+      "message": "这是 node-B 的第 54 条日志",
+      "vector_clock": {
+        "node-B": 54
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480151.8726633,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 48 条日志",
+      "vector_clock": {
+        "node-C": 48
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480152.049594,
+      "level": "INFO",
+      "message": "这是 node-B 的第 55 条日志",
+      "vector_clock": {
+        "node-B": 55
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480152.049594,
+      "level": "ERROR",
+      "message": "这是 node-A 的第 63 条日志",
+      "vector_clock": {
+        "node-A": 63
+      }
+    },
+    {
+      "node_id": "node-C",
+      "timestamp": 1783480152.8733497,
+      "level": "ERROR",
+      "message": "这是 node-C 的第 49 条日志",
+      "vector_clock": {
+        "node-C": 49
+      }
+    },
+    {
+      "node_id": "node-B",
+      "timestamp": 1783480153.050685,
+      "level": "INFO",
+      "message": "这是 node-B 的第 56 条日志",
+      "vector_clock": {
+        "node-B": 56
+      }
+    },
+    {
+      "node_id": "node-A",
+      "timestamp": 1783480153.050685,
+      "level": "WARN",
+      "message": "这是 node-A 的第 64 条日志",
+      "vector_clock": {
+        "node-A": 64
+      }
+    }
+  ]
+}
